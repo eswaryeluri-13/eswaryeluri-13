@@ -42,7 +42,7 @@
 -->
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2em;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswaryeluri-13&show_icons=true&locale=en&layout=compact" alt="eswaryeluri-13" width="400" height="195" /></p>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eswaryeluri-13&show_icons=true&locale=en" alt="eswaryeluri-13" /></p>
