@@ -42,11 +42,12 @@
 -->
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswaryeluri-13&show_icons=true&locale=en&layout=compact" alt="eswaryeluri-13" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswaryeluri-13&show_icons=true&locale=en&layout=compact" alt="eswaryeluri-13" width="400" height="200" /></p>
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=eswaryeluri-13&show_icons=true&locale=en" alt="eswaryeluri-13" /></p>
 </div>
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eswaryeluri-13" alt="eswaryeluri-13" /></p>
 
