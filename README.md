@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eswar Yeluri</h1>
 <h3 align="center">A passionate frontend/Backend developer from India</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 <p align="left"> <a href="https://twitter.com/eswaryeluri13" target="blank"><img src="https://img.shields.io/twitter/follow/eswaryeluri13?logo=twitter&style=for-the-badge" alt="eswaryeluri13" /></a> </p>
 
-<br>
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
